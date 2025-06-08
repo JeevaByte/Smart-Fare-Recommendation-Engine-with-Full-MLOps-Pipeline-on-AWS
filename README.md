@@ -117,5 +117,5 @@ The CI/CD pipeline automates:
 The optional LangChain agent provides a natural language interface to the fare recommendation engine, allowing users to query for fare recommendations using plain English.
 
 ## License
-MIT"# Smart-Fare-Recommendation-Engine-with-Full-MLOps-Pipeline-on-AWS" 
-# Smart-Fare-Recommendation-Engine-with-Full-MLOps-Pipeline-on-AWS
+
+
